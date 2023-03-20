@@ -89,6 +89,8 @@ while x<50:
     numberlist += [new]
 print(numberlist)
 
+# the cell wound't run
+
 #part IV
 numberlist=[]
 for number in range(100):
